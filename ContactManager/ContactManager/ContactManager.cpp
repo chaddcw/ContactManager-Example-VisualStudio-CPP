@@ -5,6 +5,7 @@
 // Class:			CS 360
 // Assignment: Introduction to Git and Windows
 // Purpose:		To provide the driver for the contact manager
+//						Test a commit from CS lab Visual Studio 2013!
 // ***************************************************************************
 
 #include <iostream>
